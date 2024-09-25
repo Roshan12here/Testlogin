@@ -4,7 +4,6 @@ import { useState } from "react";
 
 import StepOne from "./step-one";
 import { Progress } from "@/components/ui/progress";
-import StepTwo from "./step-two";
 import StepThree from "./step-three";
 import { useAction } from "next-safe-action/hooks";
 import { RegisterAccount } from "@/server/actions/register";
